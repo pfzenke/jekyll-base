@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Paul Zenke
+description: Director of Academic Technology (VPTL) @Stanford. Co-host @firstdraftcast on @FiddlyFM.
+meta_description: "Director of Academic Technology (VPTL) @Stanford. Co-host @firstdraftcast on @FiddlyFM."
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://www.pz.fyi'
+google_analytics: 'UA-67554417-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://www.pz.fyi'
+author:         'Paul Zenke'
+authorTwitter:  '@pfzenke'
 
 permalink:       /:year/:title/
 
